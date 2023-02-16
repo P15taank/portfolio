@@ -1,0 +1,4 @@
+/* preventing users to copy text from website */
+html {
+	user-select: none;
+}
